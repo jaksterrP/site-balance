@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/balance/.idea/jsonrpc.iml" filepath="$PROJECT_DIR$/balance/.idea/jsonrpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lider.iml" filepath="$PROJECT_DIR$/.idea/lider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/site/.idea/site.iml" filepath="$PROJECT_DIR$/site/.idea/site.iml" />
+    </modules>
+  </component>
+</project>

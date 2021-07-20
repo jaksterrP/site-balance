@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/composer" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/yoanm/symfony-jsonrpc-http-server" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/yoanm/jsonrpc-server-sdk" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/yoanm/jsonrpc-params-symfony-validator-sdk" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/yoanm/symfony-jsonrpc-params-validator" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/proxy-manager-bridge" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/jsonrpc/vendor/symfony/property-access" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
+</project>

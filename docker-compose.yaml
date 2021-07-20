@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  app-postgres:
+    image: postgres:13-alpine
+    environment:
+      POSTGRES_USER: symfony
+      POSTGRES_PASSWORD: symfony
+      POSTGRES_DB: symfony
+    volumes:
+      - ./postgres:/var/lib/postgresql/data
+    ports:
+     - '54321:5432'
